@@ -1,1 +1,5 @@
 Just Testing Git!
+Some More New Text.
+Just Testing Git!
+Some New Text in the File.
+Some More New Text.
