@@ -1,1 +1,1 @@
-<a href="https://wtmatter.com" rel="dofollow">Gurmeet Singh</a>
+<a href="https://wtmatter.com">Gurmeet Singh</a>
